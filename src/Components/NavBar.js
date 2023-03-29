@@ -22,7 +22,7 @@ export const NavBar = () => {
               Home
             </Link>
             <Link
-              to="BenDCHomePage/Projectss"
+              to="BenDCHomePage/Projects"
               className="nav-link"
               onClick={() => setExpanded(false)}
             >
