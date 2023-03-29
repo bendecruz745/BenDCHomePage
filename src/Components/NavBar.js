@@ -15,21 +15,21 @@ export const NavBar = () => {
         <Navbar.Collapse id="navbarScroll">
           <Nav className="me-auto my-2 my-lg-0" navbarScroll>
             <Link
-              to="BenDCHomepage/Home"
+              to="BenDCHomePage"
               className="nav-link"
               onClick={() => setExpanded(false)}
             >
               Home
             </Link>
             <Link
-              to="BenDCHomepage/Projects"
+              to="BenDCHomePage/Projects"
               className="nav-link"
               onClick={() => setExpanded(false)}
             >
               Projects
             </Link>
             <Link
-              to="BenDCHomepage/About"
+              to="BenDCHomePage/About"
               className="nav-link"
               onClick={() => setExpanded(false)}
             >

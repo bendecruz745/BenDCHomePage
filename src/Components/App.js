@@ -13,7 +13,7 @@ function App() {
       <NavBar />
       <div className="container">
         <Routes>
-          <Route path="BenDCHomepage/Home" element={<Home />} />
+          <Route path="BenDCHomepage" element={<Home />} />
           <Route path="BenDCHomepage/Projects" element={<Projects />} />
           <Route path="BenDCHomepage/About" element={<About />} />
         </Routes>
