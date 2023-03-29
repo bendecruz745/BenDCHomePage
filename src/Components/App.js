@@ -13,9 +13,9 @@ function App() {
       <NavBar />
       <div className="container">
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/projects" element={<Projects />} />
-          <Route path="/about" element={<About />} />
+          <Route path="BenDCHomepage/Home" element={<Home />} />
+          <Route path="BenDCHomepage/Projects" element={<Projects />} />
+          <Route path="BenDCHomepage/About" element={<About />} />
         </Routes>
       </div>
     </body>
