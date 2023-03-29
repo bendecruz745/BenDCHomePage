@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/BenDCHomePage/static/css/main.c1a7d1ed.css",
-    "main.js": "/BenDCHomePage/static/js/main.7d940384.js",
-    "static/js/787.882d9200.chunk.js": "/BenDCHomePage/static/js/787.882d9200.chunk.js",
-    "index.html": "/BenDCHomePage/index.html",
-    "main.c1a7d1ed.css.map": "/BenDCHomePage/static/css/main.c1a7d1ed.css.map",
-    "main.7d940384.js.map": "/BenDCHomePage/static/js/main.7d940384.js.map",
-    "787.882d9200.chunk.js.map": "/BenDCHomePage/static/js/787.882d9200.chunk.js.map"
+    "main.css": "/static/css/main.c1a7d1ed.css",
+    "main.js": "/static/js/main.9aabdc93.js",
+    "static/js/787.882d9200.chunk.js": "/static/js/787.882d9200.chunk.js",
+    "index.html": "/index.html",
+    "main.c1a7d1ed.css.map": "/static/css/main.c1a7d1ed.css.map",
+    "main.9aabdc93.js.map": "/static/js/main.9aabdc93.js.map",
+    "787.882d9200.chunk.js.map": "/static/js/787.882d9200.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c1a7d1ed.css",
-    "static/js/main.7d940384.js"
+    "static/js/main.9aabdc93.js"
   ]
 }
