@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/BenDCHomePage/static/css/main.c1a7d1ed.css",
-    "main.js": "/BenDCHomePage/static/js/main.8846572b.js",
+    "main.js": "/BenDCHomePage/static/js/main.f26c7e75.js",
     "static/js/787.882d9200.chunk.js": "/BenDCHomePage/static/js/787.882d9200.chunk.js",
     "index.html": "/BenDCHomePage/index.html",
     "main.c1a7d1ed.css.map": "/BenDCHomePage/static/css/main.c1a7d1ed.css.map",
-    "main.8846572b.js.map": "/BenDCHomePage/static/js/main.8846572b.js.map",
+    "main.f26c7e75.js.map": "/BenDCHomePage/static/js/main.f26c7e75.js.map",
     "787.882d9200.chunk.js.map": "/BenDCHomePage/static/js/787.882d9200.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c1a7d1ed.css",
-    "static/js/main.8846572b.js"
+    "static/js/main.f26c7e75.js"
   ]
 }
