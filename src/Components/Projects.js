@@ -26,7 +26,7 @@ function Projects() {
       <p>
         Now you might be thinking, isnt jumping from the previous two projects
         to a chat app a bit ambitious? Well, yes it is, it ended up being quite
-        the struggle.
+        the struggle. <br />
         <b>NOTE:</b> My NodeJS server is being hosted on render.com and the
         service is spun down when it is inactive for awhile, if you are checking
         this out, attempt to login/signup and give it a minute or two and it
